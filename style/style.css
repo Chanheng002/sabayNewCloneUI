@@ -70,6 +70,7 @@ a {
   position: absolute;
   margin-top: -2rem;
   margin-left: 1rem;
+  z-index: 1;
 }
 .full-width-container {
   position: sticky;
