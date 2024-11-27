@@ -1,9 +1,16 @@
-@media screen and (max-width: 765px){
-  .b-pink, .b-blue, .b-yellow, .b-green{
+@media screen and (max-width: 765px) {
+  .b-pink,
+  .b-blue,
+  .b-yellow,
+  .b-green {
     background-color: transparent;
   }
 }
 @media screen and (min-width: 765px) {
+  /* slide  */
+  .slide-img {
+    display: none;
+  }
   /* navbar top */
   .menu-toggle {
     display: none;
